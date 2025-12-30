@@ -1,0 +1,12 @@
+- title: About
+  url: /about/
+
+- title: Projects
+  children:
+    - title: Project One
+      url: /projects/project-one/
+    - title: Project Two
+      url: /projects/project-two/
+
+- title: Blog
+  url: /blog/
