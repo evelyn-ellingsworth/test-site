@@ -20,12 +20,70 @@ height: auto;
 }
 
 
-    .site-nav .menu-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center;
-    }
+@media (max-width: 768px) {
+  .nav-list {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  /* Always show submenus */
+  .sub-menu {
+    display: block;
+    position: static;
+    border: none;
+    background: none;
+    margin-left: 1rem;
+  }
+
+  /* Parent links look like headings */
+  .nav-item > a {
+    font-weight: 600;
+    margin-top: 1rem;
+    display: block;
+  }
+
+  /* Disable hover dropdown behavior */
+  .nav-item:hover > .sub-menu {
+    display: block;
+  }
+
+  .sub-menu li a {
+    padding: 0.25rem 0;
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 768px) {
+  .nav-list {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  /* Always show submenus */
+  .sub-menu {
+    display: block;
+    position: static;
+    border: none;
+    background: none;
+    margin-left: 1rem;
+  }
+
+  /* Parent links look like headings */
+  .nav-item > a {
+    font-weight: 600;
+    margin-top: 1rem;
+    display: block;
+  }
+
+  /* Disable hover dropdown behavior */
+  .nav-item:hover > .sub-menu {
+    display: block;
+  }
+
+  .sub-menu li a {
+    padding: 0.25rem 0;
+    font-weight: normal;
+  }
+}
+
+
