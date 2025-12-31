@@ -1,19 +1,19 @@
 - title: About
   children:
     - title: Chapter Leadership
-      url: /test-site/chapter-leadership
+      url: /chapter-leadership
     - title: Supporters
-      url: /test-site/supporter-rec
+      url: /supporter-rec
     - title: Awards and Recognition
-      url: /test-site/awards-recognition
+      url: /awards-recognition
     - title: Activities
-      url: /test-site/activities
+      url: /activities
     - title: Program of Work
-      url: /test-site/program-work
+      url: /program-work
 
 - title: Join
-  url: /test-site/membership
+  url: /membership
 
 - title: FCS
-  url: /test-site/FCS
+  url: /FCS
 
