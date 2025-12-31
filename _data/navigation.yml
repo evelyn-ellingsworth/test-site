@@ -1,12 +1,18 @@
 - title: About
-  url: /about/
-
-- title: Projects
   children:
-    - title: Project One
-      url: /projects/project-one/
-    - title: Project Two
-      url: /projects/project-two/
+  - title: Chapter Leadership
+    url: /test-site/chapter-Leadership
+  - title: Supporters
+    url: /test-site/supporter-rec
+- title: Awards and Recognition
+    url: /test-site/A&R
+- title: Activities
+   url: /test-site/activities
+- title: Program of Work
+    url: /test-site/program-work
+    
+- title: Join
+ url: /test-site/membership
 
-- title: Blog
-  url: /blog/
+- title: FCS
+  url: /test-site/FCS
