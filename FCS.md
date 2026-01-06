@@ -1,5 +1,12 @@
+---
+layout: default
+---
+
 # Family and Consumer Sciences
 
+<div class="highlight-section">
+  <h1>Family and Consumer Sciences</h1>
+</div>
 
 
 <details>

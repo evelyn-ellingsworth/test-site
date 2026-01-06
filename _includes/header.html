@@ -1,9 +1,17 @@
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      {{ site.title | escape }}
-    </a>
+    <!--trying home button on the left again-->
+    <div class="header-left">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+        {{ site.title | escape }}
+      </a>
+      
+      <a class="header-home-link nav-link" href="{{ "/" | relative_url }}">
+        Home
+      </a>
 
+    </div>
+ 
     <nav class="site-nav">
       <!-- Mobile toggle -->
       <input type="checkbox" id="nav-toggle" class="nav-toggle">

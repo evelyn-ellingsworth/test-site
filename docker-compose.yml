@@ -1,0 +1,16 @@
+services:
+  jekyll:
+    image: davidforster/github-pages
+    ports:
+        - 4000:4000
+        - 35729:35729
+    develop:
+      watch:
+        - path: .
+          action: sync # Syncs changes into the container
+          target: /home/jekyll/src
+          initial_sync: true
+          ignore:
+            - .jekyll-metadata
+            - .jekyll-cache/
+            - .sass-cache/

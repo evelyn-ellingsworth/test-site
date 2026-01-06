@@ -1,3 +1,10 @@
-# Chapter Leadership
+---
+layout: default
+---
 
-We're trying to debug...
+<div class="highlight-section">
+  <h1>Chapter Leadership</h1>
+</div>
+
+
+

@@ -5,10 +5,10 @@
 
 
 .site-header {
-  border-top: 5px solid #FF0000;
+  border-top: 5px solid #41536A;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-  background-color: #FF0000;
+  background-color: #ffffff;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -38,8 +38,23 @@ height: auto;
 
 .sub-menu {
   list-style: none;
-  padding-left: 1rem;
 }
+
+//quickish fix for menu icon centering, changed padding
+@media screen and (max-width: 600px) {
+    .site-nav .menu-icon
+ {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 22px;
+        text-align: center;
+    }
+}
+
+
 @media (max-width: 600px) {
   .menu-icon {
     display: block;
@@ -73,7 +88,7 @@ height: auto;
     transform: rotate(180deg);
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 601px) {
   .menu-icon {
     display: none;
   }
@@ -123,16 +138,6 @@ height: auto;
   }
 }
 
-.site-nav {
-  display: flex;
-  align-items: center;
-}
-
-.menu-icon {
-  display: flex;
-  align-items: center;
-}
-
 /* Make nav links fill the row */
 .site-nav a,
 .site-nav summary {
@@ -143,15 +148,15 @@ height: auto;
 /* Parent nav items */
 .site-nav a:hover,
 .site-nav summary:hover {
-  background-color: #f0f0f0;
+  background-color: #e6e6e6;
 }
 /* Child nav items */
 .site-nav .sub-menu a:hover {
-  background-color: #e8e8e8;
+  background-color: #e6e6e6;
 }
-@media (min-width: 768px) {
+@media (min-width: 601px) {
   details:hover > summary {
-    background-color: #f0f0f0;
+    background-color: #e6e6e6;
   }
 }
 .site-nav a:active,
@@ -163,3 +168,224 @@ height: auto;
   transition: background-color 0.15s ease-in-out;
 }
 
+
+//mobile nav hover
+@media (max-width: 601px) {
+  .nav-list {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  /* Always show submenus */
+  .sub-menu {
+    display: block;
+    position: static;
+    border: none;
+    background: none;
+    margin-left: 1rem;
+  }
+
+     .nav-item > details > summary {
+        font-weight: 600;
+        margin-top: 1rem;
+        display: block;
+     }
+
+  /* Parent links look like headings */
+  .nav-item > a {
+    font-weight: 600;
+    margin-top: 1rem;
+    display: block;
+  }
+
+  /* Disable hover dropdown behavior */
+  .nav-item:hover > .sub-menu {
+    display: block;
+  }
+
+  .sub-menu li a {
+    padding: 0.25rem 0;
+    font-weight: normal;
+  }
+}
+/*format for home button */
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.site-nav {
+  margin-left: auto; /* pushes nav fully right */
+}
+
+/* Make header Home link behave exactly like nav links */
+.nav-link {
+  display: block;
+  padding: 1.45rem 0.75rem;
+  text-decoration: none;
+  transition: background-color 0.15s ease-in-out;
+}
+
+//@media (max-width: 601px) {
+  .nav-link:hover {
+    background-color: #f0f0f0;
+  }
+
+  .nav-link:active {
+    background-color: #e0e0e0;
+  }
+//}
+
+/* Prevent underline & color change on Home button hover */
+.site-header .nav-link,
+.site-header .nav-link:hover,
+.site-header .nav-link:focus,
+.site-header .nav-link:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+.footer-col {
+    float: left;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    text-align: center;
+}
+
+
+
+//hightlight?
+.highlight-section {
+  background-color: #ef3e42;
+  padding: 1.5rem;
+  text-align: center;
+}
+
+//remove spacing above highlighted area
+.page-content {
+  padding: 0;
+  flex: 1;
+}
+.highlight-section {
+  max-width: auto;
+}
+//highlight area header
+.highlight-section h1{
+  font-weight: bolder;
+}
+.highlight-section h1 {
+    margin-bottom: 0px;
+}
+
+//overall-intro formatting
+.intro-overall-section{
+  padding-top: 20px;
+  margin-right: 50%;
+}
+//indent for intro paragraph
+.intro-overall-section p {
+  text-indent: 2em;
+}
+//bolding header text
+.intro-overall-section h2{
+  font-weight: bold;
+  color: #ef3e42
+  
+}
+
+
+
+//our-chapter intro formatting
+.intro-chapter-section{
+  padding-top: 20px;
+  margin-left: 50%;
+}
+//indent for chapter intro
+.intro-chapter-section p {
+  text-indent: 2em;
+}
+//bolding heading
+.intro-chapter-section h2{
+  font-weight: bold;
+  color: #ef3e42
+}
+
+
+
+//star event section formatting
+.intro-star-events-section{
+  padding-top: 20px;  
+}
+//indent for star event section
+.intro-star-events-section p {
+  text-indent: 2em;
+}
+.intro-star-events-section h2{
+  font-weight: bold;
+  color: #ef3e42
+}
+
+
+//text color for non submenu nav items
+a:visited {
+    color: #000000;
+}
+
+//get rid of gap on the left of the home button
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 0;
+}
+
+
+
+
+//overall awards description formating
+.overall-awards-description{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+//reg heading format
+.reg-dropdown h3 {
+  text-align: center;
+  font-weight: bold;
+}
+
+//state dropdown formatting
+/*.state-dropdown {
+  margin-left: 33%;
+  margin-right: 33%;
+}*/
+
+//state heading format
+.state-dropdown h3 {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Current issues: 
+  I am not sure how to make the red "banner" area cover the entire 
+  screen width without changing the .wrapper class. I either
+*/
+
+/* Future Additions:
+  The "about" section is always a different color because of the
+  submenu. I don't know if I'll change this or not
+*/
+.column {
+    width: 30%;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    text-align: center;
+    display: inline-block;
+}

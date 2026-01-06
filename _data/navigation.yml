@@ -17,3 +17,9 @@
 - title: FCS
   url: /FCS
 
+- title: STAR Events
+  children:
+    - title: STAR Events Project Components
+      url: /star-event-components
+    - title: Video Project
+      url: /star-event-video
