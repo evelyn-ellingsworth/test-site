@@ -10,62 +10,44 @@ layout: default
     <h3>From STAR Events, to Skills Competitions, to Individual Programs, chapter members have created amazing projects and shown their skills on a regional, state, and national level. </h3>
 </div>
 
-<div class="dropdown-group">
-<div class = "reg-dropdown column">
-    <section class="page-dropdown">
-        <details>
-            <summary><h3>Regional</h3></summary>
-            <p>Awards presented at the regional level.</p>
 
-            <details>
-                <summary>Subsection A</summary>
-                <p>Nested content goes here.</p>
-            </details>
+<div class="three-section-layout">
+  <!-- Section 1 -->
+  <section class="column-1">
+    <h3>Regional</h3>
+    <summary>Awards won at regional conference.</summary>
+    <details>
+      <summary>--</summary>
 
-            <details>
-                <summary>Subsection B</summary>
-                <p>More nested content.</p>
-            </details>
-        </details>
-    </section>
-</div>
+      <details class="nested">
+        <summary>Nested Option A</summary>
+        <p>Nested content A</p>
+      </details>
 
+      <details class="nested">
+        <summary>Nested Option B</summary>
+        <p>Nested content B</p>
+      </details>
+    </details>
+  </section>
 
-<div class = "state-dropdown column">
-    <section class="page-dropdown ">
-        <details>
-            <summary><h3>State</h3></summary>
-            <p>Awards presented at the state level.</p>
+  <!-- Section 2 -->
+  <section class="column-1">
+    <h3>State</h3>
+    <summary>Awards won at state conference.</summary>
+    <details>
+      <summary>--</summary>
+      <p>Content inside dropdown</p>
+    </details>
+  </section>
 
-            <details>
-                <summary>Subsection A</summary>
-                <p>Nested content goes here.</p>
-            </details>
-
-            <details>
-                <summary>Subsection B</summary>
-                <p>More nested content.</p>
-            </details>
-        </details>
-    </section>
-</div>
-
-<div class = "nat-dropdown column">
-    <section class="page-dropdown">
-        <details>
-            <summary><h3>National</h3></summary>
-            <p>Awards presented at the national level.</p>
-
-            <details>
-                <summary>Subsection A</summary>
-                <p>Nested content goes here.</p>
-            </details>
-
-            <details>
-                <summary>Subsection B</summary>
-                <p>More nested content.</p>
-            </details>
-        </details>
-    </section>
-</div>
+  <!-- Section 3 -->
+  <section class="column-1">
+    <h3>National</h3>
+    <summary>Awards won at national conference.</summary>
+    <details>
+      <summary>--</summary>
+      <p>Another dropdown section</p>
+    </details>
+  </section>
 </div>
