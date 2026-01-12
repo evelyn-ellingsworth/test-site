@@ -17,7 +17,7 @@ layout: home
     </div>
 
     <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>
@@ -26,7 +26,7 @@ layout: home
 <div class="image-container-3">
   <figure class="image-item-3">
     <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+         alt="Picture of FCCLA"
          class="image-size-1">
      <div class="text-content-1">
       <h2>Our Chapter:</h2>
