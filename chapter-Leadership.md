@@ -70,7 +70,7 @@ layout: default
   <figure class="image-item-2">
     <div class="text-content">
       <h2>Vice President of Membership</h2>
-      <h3>Ellie</h3>
+      <h3>Ellie Murphy</h3>
       <p>
         The job of vice president of membership is to create and run programs to increase membership and retain and recognize current members.
       </p>
@@ -88,7 +88,7 @@ layout: default
   <figure class="image-item-2">
     <div class="text-content">
       <h2>Vice President of Membership</h2>
-      <h3>Eva</h3>
+      <h3>Eva Martinez-Limon</h3>
       <p>
         The job of vice president of membership is to create and run programs to increase membership and retain and recognize current members.
       </p>
