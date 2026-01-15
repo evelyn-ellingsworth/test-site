@@ -2,7 +2,10 @@
 ---
 
 @import "minima";
-
+//text color for non submenu nav items
+ a:link, a:visited, a:hover, a:active {
+    color: #000000;
+}
 
 .site-header {
   border-top: 5px solid #41536A;
