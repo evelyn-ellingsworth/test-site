@@ -23,8 +23,8 @@ layout: default
       </p>
     </div>
 
-    <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+      <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>
@@ -40,8 +40,8 @@ layout: default
       </p>
     </div>
 
-    <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+    <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>
@@ -58,8 +58,8 @@ layout: default
       </p>
     </div>
 
-    <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>
@@ -76,8 +76,8 @@ layout: default
       </p>
     </div>
 
-    <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>
@@ -94,8 +94,8 @@ layout: default
       </p>
     </div>
 
-    <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+       <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>
@@ -112,8 +112,8 @@ layout: default
       </p>
     </div>
 
-    <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>
@@ -129,8 +129,8 @@ layout: default
       </p>
     </div>
 
-    <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>
@@ -147,8 +147,8 @@ layout: default
       </p>
     </div>
 
-    <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of Lafayette FCCLA President in official dress"
+        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
          class="image-size-1">
   </figure>
 </div>

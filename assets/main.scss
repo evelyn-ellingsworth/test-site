@@ -781,3 +781,98 @@ details.nested {
   height: 100%;
   border: 0;
 }
+
+
+.why-join-overview {
+  padding-top: 20px;
+}
+//indent for intro paragraph
+.why-join-overview p {
+  text-indent: 2em;
+}
+//bolding header text
+.why-join-overview h2{
+  font-weight: bold;
+  color: #ef3e42
+}
+
+.meetings-overview {
+  padding-top: 20px;
+}
+//indent for intro paragraph
+.meetings-overview p {
+  text-indent: 2em;
+}
+//bolding header text
+.meetings-overview h2{
+  font-weight: bold;
+  color: #ef3e42
+}
+
+.join-overview {
+  padding-top: 20px;
+  border-bottom: 1px solid #e8e8e8;
+}
+//indent for intro paragraph
+.join-overview p {
+  text-indent: 2em;
+}
+//bolding header text
+.join-overview h2{
+  font-weight: bold;
+  color: #ef3e42
+}
+
+.retain-recon-overview h1 {
+  font-weight: bolder;
+  color: #ef3e42;
+  text-align: center;
+    padding-top: 20px;
+}
+
+.recruit-overview h1 {
+  font-weight: bolder;
+  color: #ef3e42;
+  text-align: center;
+    padding-top: 20px;
+}
+.recruit-overview{
+  border-bottom: 1px solid #e8e8e8;
+}
+
+
+
+
+.program-overview h2 {
+  font-weight: bold;
+  color: #ef3e42;
+  text-align: center;
+  padding-top: 20px;
+}
+.para-1{
+  text-indent: 2em;
+}
+.para-2{
+  text-indent: 2em;
+}
+
+
+
+.program-work-pdf {
+  padding-top: 2rem;        /* space above the PDF */
+  display: flex;
+  justify-content: center;  /* horizontal centering */
+}
+.program-work-pdf object,
+.program-work-pdf iframe {
+  width: 100%;
+  max-width: 900px;  /* adjust as needed */
+  height: 500px;
+}
+@media (max-width: 600px) {
+  .program-work-pdf object,
+  .program-work-pdf iframe {
+    height: 350px;
+  }
+}
+

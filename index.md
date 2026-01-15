@@ -21,13 +21,11 @@ layout: home
          class="image-size-1">
   </figure>
 </div>
-
-  ![Alt text]({{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg)
   
 
 <div class="image-container-3">
   <figure class="image-item-3">
-    <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
+    <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
          alt="Picture of FCCLA"
          class="image-size-1">
      <div class="text-content-1">

@@ -14,18 +14,18 @@ layout: default
 <!--lafayette image-->
   <figure class="image-item">
     <a href="https://lafayette.fcps.net/" target="_blank">
-      <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-           alt="Picture of Lafayette High School"
-           class="image-size-1">
+         <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
+         class="image-size-1">
     </a>
     <figcaption>Lafayette Senior High School</figcaption>
   </figure>
 <!--Advocacy Center-->
   <figure class="image-item">
     <a href="https://kykids.org/" target="_blank">
-      <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-           alt="Children's Advocacy Center of the Bluegrass"
-           class="image-size-1">
+          <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
+         class="image-size-1">
     </a>
     <figcaption>Children's Advocacy Center of the Bluegrass</figcaption>
   </figure>
@@ -36,18 +36,18 @@ layout: default
 <!--Regional FCCLA-->
   <figure class="image-item">
     <a>
-      <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-           alt="FCCLA Logo with the words Region 15"
-           class="image-size-1">
+         <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
+         class="image-size-1">
     </a>
     <figcaption>Region 15 FCCLA</figcaption>
   </figure>
 <!--Kentucky FCCLA-->
   <figure class="image-item">
     <a href="https://www.ky-fccla.org/" target="_blank">
-      <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-           alt="FCCLA Logo with the words Kentucky FCCLA"
-           class="image-size-1">
+          <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
+         class="image-size-1">
     </a>
     <figcaption>Kentucky FCCLA</figcaption>
   </figure>
@@ -57,9 +57,9 @@ layout: default
 <!--National FCCLA-->
   <figure class="image-item">
     <a href= "https://fcclainc.org/" target= "_blank">
-      <img src="/assets/images/Hobbit_holes_reflected_in_water.jpg"
-           alt="FCCLA Logo"
-           class="image-size-1">
+          <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         alt="Picture of FCCLA"
+         class="image-size-1">
     </a>
     <figcaption>National FCCLA</figcaption>
   </figure>
