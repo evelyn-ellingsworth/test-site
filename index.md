@@ -16,13 +16,13 @@ layout: home
       </p>
     </div>
 
-    ![Alt text]({{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+    ![Alt text]({{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg)
          alt="Picture of FCCLA"
-         class="image-size-1">)
+         class="image-size-1">
   </figure>
 </div>
 
-  ![Alt text]({{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg")
+  ![Alt text]({{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg)
   
 
 <div class="image-container-3">
