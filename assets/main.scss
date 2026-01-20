@@ -2,11 +2,11 @@
 ---
 
 @import "minima";
-//text color for non submenu nav items
+/*text color for non submenu nav items
  a:link, a:visited, a:hover, a:active {
     color: #000000;
 }
-
+*/
 .site-header {
   border-top: 5px solid #41536A;
   border-bottom: 1px solid $grey-color-light;
@@ -430,6 +430,10 @@
   padding-top: 20px;
   padding-bottom: 20px;
 }
+.column-1 h3{
+  font-weight: bold;
+}
+
 //awards columns
 .three-section-layout {
   display: grid;
@@ -437,7 +441,9 @@
   gap: 2rem;
   margin: 2rem 0;
 }
-
+.column-1 .summary {
+  padding-top: 20px;
+}
 .column-1 {
   padding: 1rem;
   border: 1px solid #ddd;
@@ -445,27 +451,25 @@
   background: #fff;
 }
 
-/* Dropdowns 
+ Dropdowns 
 details {
   margin-top: 0.75rem;
+  padding-top: 30px;
 }
 
 summary {
   cursor: pointer;
-  font-weight: 600;
   list-style: none;
 }
 
-/* Remove default triangle (optional) 
-summary::-webkit-details-marker {
-  display: none;
-}
 
-/* Nested dropdown spacing 
+//Nested dropdown spacing 
 details.nested {
   margin-left: 1rem;
   margin-top: 0.5rem;
-}*/
+}
+
+
 @media (max-width: 768px) {
   .three-section-layout {
     grid-template-columns: 1fr;
@@ -786,6 +790,10 @@ details.nested {
 }
 
 
+
+
+
+//membership formating
 .why-join-overview {
   padding-top: 20px;
 }
@@ -794,7 +802,7 @@ details.nested {
   text-indent: 2em;
 }
 //bolding header text
-.why-join-overview h2{
+.why-join-overview h3{
   font-weight: bold;
   color: #ef3e42
 }
@@ -807,11 +815,17 @@ details.nested {
   text-indent: 2em;
 }
 //bolding header text
-.meetings-overview h2{
+.meetings-overview h3{
   font-weight: bold;
   color: #ef3e42
 }
 
+
+.header-test h2{
+  text-align: center;
+  font-weight: bold;
+  padding-top: 20px;
+}
 .join-overview {
   padding-top: 20px;
   border-bottom: 1px solid #e8e8e8;
@@ -821,32 +835,37 @@ details.nested {
   text-indent: 2em;
 }
 //bolding header text
-.join-overview h2{
+.join-overview h3{
   font-weight: bold;
   color: #ef3e42
 }
 
-.retain-recon-overview h1 {
+.retain-recon-overview h2 {
   font-weight: bolder;
-  color: #ef3e42;
+  color: #000000;
   text-align: center;
     padding-top: 20px;
 }
-
-.recruit-overview h1 {
-  font-weight: bolder;
+.retain-recon-overview h3{
   color: #ef3e42;
+  font-weight: bold;
+}
+
+.recruit-overview h2 {
+  font-weight: bolder;
+  color: #000000;
   text-align: center;
     padding-top: 20px;
 }
 .recruit-overview{
   border-bottom: 1px solid #e8e8e8;
 }
+.recruit-overview h3{
+  color: #ef3e42;
+  font-weight: bold;
+}
 
-
-
-
-.program-overview h2 {
+.program-overview h3 {
   font-weight: bold;
   color: #ef3e42;
   text-align: center;
@@ -879,3 +898,166 @@ details.nested {
   }
 }
 
+
+
+
+/// format for fcs page
+/* Main layout */
+/* Overall layout */
+
+.btn-primary:link, .btn-primary:visited, .btn-primary:hover, .btn-primary:active {
+  color:#fff;
+}
+.btn-primary{
+  background-color: #41536a;
+  color:#fff;
+}
+.btn-primary:hover{
+  background-color: #364259;
+}
+
+.button{
+ color: #fff;
+}
+
+.action-btn{
+  background-color: #41536a !important;
+  color:#fff !important;
+}
+.action-btn:hover{
+  background-color: #364259 !important;  
+}
+
+.fcs-layout {
+  display: grid;
+  grid-template-rows: auto auto;
+  gap: 2rem;
+  padding-top:20px;
+}
+
+/* Top row: text + button */
+.fcs-top {
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+/* Button alignment */
+.button {
+  justify-self: center; /* or center / end */
+}
+.fcs-overview h2{
+  font-weight: bold;
+}
+
+
+/* Canva embed */
+.canva-embed {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(63, 69, 81, 0.16);
+}
+
+.canva-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* -------- MOBILE -------- */
+@media (max-width: 768px) {
+  .fcs-top {
+    grid-template-columns: 1fr;
+  }
+
+  .button {
+    justify-self: center; /* or center if you prefer */
+  }
+}
+
+.beyond-hs-header{
+  padding-top: 20px;
+}
+.beyond-hs-header h2{
+    font-weight: bold;
+}
+///college section of fcs format
+.text-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr; // text | buttons
+  gap: 2rem;
+  align-items: start;
+  padding-top: 20px;
+}
+.text-buttons h3{
+  font-weight: bold;
+  color: #ef3e42;
+}
+
+/* Text column */
+.text-content {
+  max-width: 600px;
+}
+
+/* Buttons column */
+.button-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+/* Button styling */
+.action-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background-color: #004b8d;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background-color 0.2s ease;
+
+  &:hover {
+    background-color: #00345f;
+  }
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .text-buttons {
+    grid-template-columns: 1fr; // stack
+  }
+
+  .button-group {
+    margin-top: 1rem;
+  }
+}
+
+
+//footer formating
+.three-section-layout-f {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  .three-section-layout-f {
+    grid-template-columns: 1fr;
+  }
+}
+.column {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

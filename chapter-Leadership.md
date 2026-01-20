@@ -21,8 +21,9 @@ layout: default
         coordinate with advisors and school administration, and plan
         meeting dates.
       </p>
-    </div>
-
+      <p>Evelyn has been a member of FCCLA for five years and has competed in STAR Events every year. She has competed on the National level all five years and won first in the nation for the Technology in Teaching Skills Competion in 2024. She hopes to become a robotics engineer and help people through the application of technology.
+      </p>
+      </div>
       <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
          alt="Picture of FCCLA"
          class="image-size-1">
@@ -38,6 +39,7 @@ layout: default
       <p>
         The job of vice president is to assist the president and other officers in all of their duties and run officer and chapter meetings in the absence of the president.
       </p>
+      <p>Lane has been a member of FCCLA for three years and previously held the office of President. She has competed in STAR Events for the last two year, placing first at regionals and state conference both years and fifth at the National Leadership Conference in her seventh grade year.</p>
     </div>
 
     <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
@@ -56,6 +58,7 @@ layout: default
       <p>
         The job of vice president of community service is to coordinate community service events for the chapter.
       </p>
+      <p>Marisa has been a member of FCCLA for five years and is our former Vice President of Public Relations. She has placed top three twice at the National Leadership Conference, getting first place for Technology in Teaching and third for Impromptu Speaking. She's hoping to become a certified nursing assistant before eventually becoming a registered nurse.</p>
     </div>
 
         <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"

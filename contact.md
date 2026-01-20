@@ -6,7 +6,12 @@ layout: default
   <h1>Contact Us</h1>
 </div>
 
+<div class= "overall-contact section">
+  <h3>Have any questions? Contact us to learn more!</h3>
+</div>
 
-<img src="/test-site/assets/images/Hobbit_holes_reflected_in_water.jpg" width="200" height="100">
-
-![test image](/assets/images/Hobbit_holes_reflected_in_water.jpg)
+<div class = "advisor-email-section">
+  <h2>Advisor Emails:</h2>
+  <p>Natalie Mullins: natalie.mullins@fayette.kyschools.us</p>
+  <p>Rylan Grantz: rylan.grantz@fyatte.kyschools.us</p>
+</div>

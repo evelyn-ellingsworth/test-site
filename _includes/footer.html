@@ -1,53 +1,32 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
-  <div class="wrapper">
-    <h2></h2>
-   <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
-
-    <div class="footer-col footer-col-1">
-      <ul class="contact-list">
-        <li class="p-name">
-     <!--   {%- if site.author -%}
-          {{ site.author | escape }}
-        {%- else -%}
-         {{ site.title | escape }}
-        {%- endif -%}
-        </li> -->
-
-      {%- if site.email -%}
-  <!--      <li>
-          <a class="u-email" href="mailto:{{ site.email }}">
-            {{ site.email }}
-          </a>
-        </li> -->
-      {%- endif -%}
-      <img src="{{site.baseurl}}/assets/images/emblem with name.png"
+<div class = "site-footer">
+ <div class="wrapper">
+    <div class="three-section-layout-f">
+    <!-- Section 1 -->
+    <section class="column">
+        <img src="{{site.baseurl}}/assets/images/emblem with name.png"
            alt="FCCLA Logo with the words Kentucky FCCLA"
-      >
-      <!-- Contact page link -->
+         >
+    </section>
 
-    </ul>
-  </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-
+    <!-- Section 2 -->
+    <section class="column">
         <a href="{{site.baseurl}}/contact">
           <h2>Contact Us</h2>
         </a>
-      </div>
+    </section>
 
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-
-        <h2>TikTok link</h2>
-        <h2>Instagram link</h2>
-
-
-      </div> 
+  <!-- Section 3 -->
+    <section class="column">
+        <a href="https://www.tiktok.com/@yettefccla?_r=1&_t=ZP-931IJExCFyB"
+        target="_blank">
+          <h2>TikTok</h2>
+        </a>
+        <a href="https://www.instagram.com/yettefccla?igsh=
+        MXFuMWI1YWpzcXgwbw%3D%3D&utm_-source=qr" target="_blank">
+          <h2>Instagram</h2>
+        </a>
+    </section>
     </div>
-
-  </div>
-
-</footer>
+</div>
+</div>
