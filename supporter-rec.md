@@ -36,7 +36,7 @@ layout: default
 <!--Regional FCCLA-->
   <figure class="image-item">
     <a>
-         <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         <img src="{{site.baseurl}}/assets/images/emblem 15.png"
          alt="Picture of FCCLA"
          class="image-size-1">
     </a>
@@ -45,7 +45,7 @@ layout: default
 <!--Kentucky FCCLA-->
   <figure class="image-item">
     <a href="https://www.ky-fccla.org/" target="_blank">
-          <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+          <img src="{{site.baseurl}}/assets/images/emblem with ky.png"
          alt="Picture of FCCLA"
          class="image-size-1">
     </a>
@@ -57,7 +57,7 @@ layout: default
 <!--National FCCLA-->
   <figure class="image-item">
     <a href= "https://fcclainc.org/" target= "_blank">
-          <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+          <img src="{{site.baseurl}}/assets/images/FCCLA Emblem Red.jpg"
          alt="Picture of FCCLA"
          class="image-size-1">
     </a>
