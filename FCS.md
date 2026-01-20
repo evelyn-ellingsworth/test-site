@@ -83,5 +83,3 @@ layout: default
   </div>
 </div>
 
-<div class ="spacer">
-</div>
