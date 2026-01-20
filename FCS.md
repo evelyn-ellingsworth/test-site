@@ -60,11 +60,11 @@ layout: default
   </div>
 
   <div class="button-group">
-    <a href="https://www.uky.edu/" class="action-btn">University of Kentucky</a>
-    <a href="https://louisville.edu/" class="action-btn">University of Louisville</a>
-    <a href="https://www.murraystate.edu/" class="action-btn">Murray State University</a>
-    <a href="https://www.eku.edu/" class="action-btn">Eastern Kentucky University</a>
-    <a href="https://kysu.edu/" class="action-btn">Kentucky State University</a>
+    <a href="https://www.uky.edu/" class="action-btn" target="_blank">University of Kentucky </a>
+    <a href="https://louisville.edu/" class="action-btn" target="_blank">University of Louisville</a>
+    <a href="https://www.murraystate.edu/" class="action-btn" target="_blank">Murray State University</a>
+    <a href="https://www.eku.edu/" class="action-btn" target="_blank">Eastern Kentucky University</a>
+    <a href="https://kysu.edu/" class="action-btn" target="_blank">Kentucky State University</a>
   </div>
 </div>
 
@@ -77,9 +77,9 @@ layout: default
   </div>
 
   <div class="button-group">
-    <a href="https://www.aafcs.org/resources/awards-and-grants/scholarships" class="action-btn">AAFCS</a>
-    <a href="https://www.fcsed.net/prepare/prepare-scholarships" class="action-btn">Family & Consumer Sciences Educators</a>
-    <a href="https://fcclainc.org/compete/competitive-events/awards-scholarships" class="action-btn">National FCCLA</a>
+    <a href="https://www.aafcs.org/resources/awards-and-grants/scholarships" class="action-btn" target="_blank">AAFCS</a>
+    <a href="https://www.fcsed.net/prepare/prepare-scholarships" class="action-btn" target="_blank">Family & Consumer Sciences Educators</a>
+    <a href="https://fcclainc.org/compete/competitive-events/awards-scholarships" class="action-btn" target="_blank">National FCCLA</a>
   </div>
 </div>
 
