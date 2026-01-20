@@ -57,7 +57,7 @@ layout: default
 <!--National FCCLA-->
   <figure class="image-item">
     <a href= "https://fcclainc.org/" target= "_blank">
-          <img src="{{site.baseurl}}/assets/images/FCCLA Emblem Red.jpg"
+          <img src="{{site.baseurl}}/assets/images/emblem.png"
          alt="Picture of FCCLA"
          class="image-size-1">
     </a>
