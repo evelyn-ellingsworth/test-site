@@ -14,7 +14,7 @@ layout: default
 <!--lafayette image-->
   <figure class="image-item">
     <a href="https://lafayette.fcps.net/" target="_blank">
-         <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+         <img src="{{site.baseurl}}/assets/images/lafayette.jpg"
          alt="Picture of FCCLA"
          class="image-size-1">
     </a>
@@ -23,7 +23,7 @@ layout: default
 <!--Advocacy Center-->
   <figure class="image-item">
     <a href="https://kykids.org/" target="_blank">
-          <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
+          <img src="{{site.baseurl}}/assets/images/Childrens-Advocacy-Center-Of-The-Bluegrass-Lexington-Kentucky.png"
          alt="Picture of FCCLA"
          class="image-size-1">
     </a>
@@ -40,7 +40,6 @@ layout: default
          alt="Picture of FCCLA"
          class="image-size-1">
     </a>
-    <figcaption>Region 15 FCCLA</figcaption>
   </figure>
 <!--Kentucky FCCLA-->
   <figure class="image-item">
@@ -49,7 +48,6 @@ layout: default
          alt="Picture of FCCLA"
          class="image-size-1">
     </a>
-    <figcaption>Kentucky FCCLA</figcaption>
   </figure>
 </div>
 
@@ -61,6 +59,5 @@ layout: default
          alt="Picture of FCCLA"
          class="image-size-1">
     </a>
-    <figcaption>National FCCLA</figcaption>
   </figure>
 </div>
