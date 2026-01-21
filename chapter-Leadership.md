@@ -118,7 +118,7 @@ layout: default
       <p>May has been a member of FCCLA for three years has competed in STAR Events for the last two years. She has won first at regionals and place top two at state both years. Last year she placed fourth in the nation in Career Investigations. May hopes to get her doctorate and pursue a career as an orthodontist. </p>
     </div>
 
-        <img src="{{site.baseurl}}/may.png"
+        <img src="{{site.baseurl}}/assets/images/may.png"
          alt="Picture of Chapter Vice President of Public Relations"
          class="image-size-1">
   </figure>
