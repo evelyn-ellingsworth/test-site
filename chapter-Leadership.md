@@ -80,8 +80,8 @@ layout: default
       <p>Ellie has been a member of FCCLA for two years and has competed in STAR Events both years. Last year she won first at both Regional and State Conference. She is an active part of all fundraisers and community service projects and hopes to find a career that enhances the leadership skills that she has learn from FCCLA.</p>
     </div>
 
-        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of FCCLA"
+        <img src="{{site.baseurl}}/assets/images/ellie.png"
+         alt="Picture of Chapter Vice President of Membership"
          class="image-size-1">
   </figure>
 </div>
@@ -99,12 +99,30 @@ layout: default
       <p>Eva has been in FCCLA for three years and previously held the office of First Vice President. She now holds the title of Vice President of Membership along with Ellie Murphy. Last year, she won first in the state for her STAR Event.</p>
     </div>
 
-       <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of FCCLA"
+       <img src="{{site.baseurl}}/assets/images/eva.png"
+         alt="Picture of Chapter Vice President of Membership"
          class="image-size-1">
   </figure>
 </div>
 
+
+<!--Vice president of Public Relations-->
+<div class="image-container-2">
+  <figure class="image-item-2">
+    <div class="text-content">
+      <h2>Vice President of Public Relations</h2>
+      <h3>May Dinh</h3>
+      <p>
+        The job of vice president of public relations is to manage all of the chapter’s official social media accounts and insure that all information gets to chapter members. 
+      </p>
+      <p>May has been a member of FCCLA for three years has competed in STAR Events for the last two years. She has won first at regionals and place top two at state both years. Last year she placed fourth in the nation in Career Investigations. May hopes to get her doctorate and pursue a career as an orthodontist. </p>
+    </div>
+
+        <img src="{{site.baseurl}}/may.png"
+         alt="Picture of Chapter Vice President of Public Relations"
+         class="image-size-1">
+  </figure>
+</div>
 
 <!--Vice president of Competitive Events-->
 <div class="image-container-2">
@@ -132,25 +150,6 @@ layout: default
       <p>
         The job of vice president of finance is to collect dues from members and manage finances for the chapter.
       </p>
-    </div>
-
-        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
-         alt="Picture of FCCLA"
-         class="image-size-1">
-  </figure>
-</div>
-
-
-<!--Vice president of Public Relations-->
-<div class="image-container-2">
-  <figure class="image-item-2">
-    <div class="text-content">
-      <h2>Vice President of Public Relations</h2>
-      <h3>May Dinh</h3>
-      <p>
-        The job of vice president of public relations is to manage all of the chapter’s official social media accounts and insure that all information gets to chapter members. 
-      </p>
-      <p>May has been a member of FCCLA for three years has competed in STAR Events for the last two years. She has won first at regionals and place top two at state both years. Last year she placed fourth in the nation in Career Investigations. May hopes to get her doctorate and pursue a career as an orthodontist. </p>
     </div>
 
         <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
