@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="highlight-section">
+<div class="banner">
   <h1>Chapter Leadership</h1>
 </div>
 
@@ -77,6 +77,7 @@ layout: default
       <p>
         The job of vice president of membership is to create and run programs to increase membership and retain and recognize current members.
       </p>
+      <p>Ellie has been a member of FCCLA for two years and has competed in STAR Events both years. Last year she won first at both Regional and State Conference. She is an active part of all fundraisers and community service projects and hopes to find a career that enhances the leadership skills that she has learn from FCCLA.</p>
     </div>
 
         <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"
@@ -95,6 +96,7 @@ layout: default
       <p>
         The job of vice president of membership is to create and run programs to increase membership and retain and recognize current members.
       </p>
+      <p>Eva has been in FCCLA for three years and previously held the office of First Vice President. She now holds the title of Vice President of Membership along with Ellie Murphy. Last year, she won first in the state for her STAR Event.</p>
     </div>
 
        <img src="{{site.baseurl}}/assets/images/Hobbit_holes_reflected_in_water.jpg"

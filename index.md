@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div class="highlight-section">
+<div class="home-banner">
   <h1>Lafayette Senior High School FCCLA</h1>
 </div>
 

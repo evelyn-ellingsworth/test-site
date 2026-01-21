@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="highlight-section">
+<div class="banner">
   <h1>Program of Work</h1>
 </div>
 

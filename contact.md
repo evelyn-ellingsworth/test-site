@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="highlight-section">
+<div class="banner">
   <h1>Contact Us</h1>
 </div>
 
@@ -13,5 +13,5 @@ layout: default
 <div class = "advisor-email-section">
   <h2>Advisor Emails:</h2>
   <p>Natalie Mullins: natalie.mullins@fayette.kyschools.us</p>
-  <p>Rylan Grantz: rylan.grantz@fyatte.kyschools.us</p>
+  <p>Rylan Grantz: rylan.grantz@fayatte.kyschools.us</p>
 </div>

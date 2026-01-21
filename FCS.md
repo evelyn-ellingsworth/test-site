@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="highlight-section">
+<div class="banner">
   <h1>Family and Consumer Sciences</h1>
 </div>
 
@@ -56,7 +56,7 @@ layout: default
     <p>
       If you are interested in continuing your family and consumer sciences education beyond high school, consider these in-state colleges.
     </p>
-    <p>Going to college in state can reduce tuition costs and make housing easier. In addition all Kentucky students can earn KEES money throughout their academic career. This can later be used to pay for in state colleges.</p> 
+    <p>EKU, WKU, and Murray are the only in-state colleges that have a specific Family and Consumer Science degree. However, Louisville and UK both have degrees for many related occupations. </p> 
   </div>
 
   <div class="button-group">
@@ -64,7 +64,7 @@ layout: default
     <a href="https://louisville.edu/" class="action-btn">University of Louisville</a>
     <a href="https://www.murraystate.edu/" class="action-btn">Murray State University</a>
     <a href="https://www.eku.edu/" class="action-btn">Eastern Kentucky University</a>
-    <a href="https://kysu.edu/" class="action-btn">Kentucky State University</a>
+    <a href="https://www.wku.edu/" class="action-btn">Western Kentucky University</a>
   </div>
 </div>
 

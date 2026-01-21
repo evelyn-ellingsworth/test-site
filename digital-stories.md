@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="highlight-section">
+<div class="banner">
   <h1>Digital Stories for Change</h1>
 </div>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="highlight-section">
+<div class="banner">
   <h1>Awards and Recognition</h1>
 </div>
 

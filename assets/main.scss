@@ -7,6 +7,50 @@
     color: #000000;
 }
 */
+//bruce banner
+.banner {
+  width: 100%;
+  min-height: 15vh;
+
+  background-image: url("{{site.baseurl}}/assets/images/banner.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+
+.banner h1 {
+  color:black;
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+}
+.home-banner {
+  width: 100%;
+  min-height: 18vh;
+
+  background-image: url("{{site.baseurl}}/assets/images/banner.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;      /* vertical centering */
+  justify-content: center;  /* horizontal centering */
+}
+
+.home-banner h1 {
+  color:black;
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+
 .site-header {
   border-top: 5px solid #41536A;
   border-bottom: 1px solid $grey-color-light;
@@ -21,6 +65,11 @@
   width: 100%;
   max-width: 300px;  // desktop + mobile consistency
   height: auto;
+}
+.footer-logo{
+  width: auto;
+  height: 250px;
+  vertical-align: middle;
 }
 
 //navigation
@@ -580,6 +629,14 @@ details.nested {
 
 
 //Format for chapter leadership flexboxes
+.text-content h3{
+  font-weight: bold;
+  color: #ef3e42
+}
+.text-content h2{
+  font-weight: bold;
+}
+
 .image-container-2 {
   max-width: 900px;
   margin: 0 auto;

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="highlight-section">
+<div class="banner">
   <h1>Chapter Supporter Recognition</h1>
 </div>
 
