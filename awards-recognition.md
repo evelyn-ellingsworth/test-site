@@ -21,12 +21,13 @@ layout: default
       <summary>2023-2024</summary>
 
       <details class="nested">
-        <summary>Interior Design</summary>
-        <p>Nested content A</p>
+        <summary>Interior Design (Level 3)</summary>
+        <p1>Gold - Claire McNees and Emily Bethal</p1>
+        <p>An individual or team event - recognizes participants who apply interior design skills learned in Family and Consumer Sciences courses to design to meet client needs.</p>
       </details>
 
       <details class="nested">
-        <summary>Professional Presentation</summary>
+        <summary>Professional Presentation (Level 2)</summary>
         <p1>Gold - Abby Ledbetter and Evelyn Ellingsworth</p1>
         <p>An individual or team event - recognizes participants who make an oral presentation about issues concerning Family and Consumer Sciences and/or related occupations.</p>
       </details>
@@ -80,7 +81,11 @@ layout: default
     <summary>Awards won at state conference.</summary>
     <details>
       <summary>2023-2024</summary>
-      <p>Content inside dropdown</p>
+          <details class="nested">
+          <summary>Interior Design (Level 3)</summary>
+          <p1>Gold - Claire McNees and Emily Bethal</p1>
+          <p>An individual or team event - recognizes participants who apply interior design skills learned in Family and Consumer Sciences courses to design to meet client needs.</p>
+          </details>
     </details>
 
     <details>
@@ -121,7 +126,7 @@ layout: default
       </details>
 
       <details class="nested">
-        <summary>Nutrition and Wellness </summary>
+        <summary>Nutrition and Wellness (Level 2) </summary>
         <p1>Silver - Kaliyah Broadnax</p1>
         <p>An individual or team event - recognizes participants who track food intake and physical activity for themselves, their family, or a community group and determine goals and strategies for improving their overall health.</p>
       </details>
@@ -142,29 +147,29 @@ layout: default
     <details>
       <summary>2023-2024</summary>
       <details class="nested">
-        <summary>Interior Design</summary>
+        <summary>Interior Design (Level 3)</summary>
         <p1>Gold - Claire McNees and Emily Bethel</p1>
         <p>An individual or team event, recognizes participants who apply interior design skills learned in Family and Consumer Sciences
         Courses to design spaces to meet client needs. In advance, participants will create design deliverables addressing the specifics of the
         design scenario. Participants must prepare a file folder, an oral presentation and visuals.</p>
         </details>
       <details class="nested">
-        <summary>Speak Out for FCCLA</summary>
+        <summary>Speak Out for FCCLA (Level 3)</summary>
         <p1>Gold - Cassidy Long</p1>
         <p>An individual event, recognizes members for their ability to utilize marketing and public speaking skills to promote Family and Consumer Sciences and FCCLA membership through participation in the FCCLA national program Power of One unit, "Speak Out for FCCLA."</p>
         </details>
       <details class="nested">
-        <summary>Speak Out for FCCLA</summary>
+        <summary>Speak Out for FCCLA (Level 2)</summary>
         <p1>Gold - Deleigha Cummins</p1>
         <p>An individual event, recognizes members for their ability to utilize marketing and public speaking skills to promote Family and Consumer Sciences and FCCLA membership through participation in the FCCLA national program Power of One unit, "Speak Out for FCCLA."</p>
         </details>
       <details class="nested">
-        <summary>Speak Out for FCCLA</summary>
+        <summary>Speak Out for FCCLA (Level 3)</summary>
         <p1>Gold - Renata Centeno Sanchez</p1>
         <p>An individual event, recognizes members for their ability to utilize marketing and public speaking skills to promote Family and Consumer Sciences and FCCLA membership through participation in the FCCLA national program Power of One unit, "Speak Out for FCCLA."</p>
         </details>
       <details class="nested">
-        <summary>Technology in Teaching</summary>
+        <summary>Technology in Teaching (Level 2)</summary>
         <p1>Gold - Evelyn Ellingsworth</p1>
         <p>An individual event, recognizes members for their ability to select and critically evaluate an application (app) for use as part of a class offered in the Family and Consumer Sciences program.</p>
       </details>
@@ -177,12 +182,12 @@ layout: default
         <p>An individual event - recognizes participants who demonstrate their baking and pastry skills through the preparation of a quick bread, choux pastry, cookie, and cake decorating. </p>
         </details>
         <details class="nested">
-        <summary>Career Investigation</summary>
+        <summary>Career Investigation (Level 2)</summary>
         <p1>Gold - May Dinh</p1>
         <p>An individual event - recognizes participants for their ability to perform self-assessments, research and explore a career, set career goals, create a plan for achieving goals, and describe the relationship of Family and Consumer Sciences coursework to the selected career.</p>
         </details>
         <details class="nested">
-        <summary>Chapter Service Project Display</summary>
+        <summary>Chapter Service Project Display (Level 2)</summary>
         <p1>Gold - Deleigha Cummins and Marisa Presley</p1>
         <p>A team event - recognizes chapters that develop and implement an in-depth service project that makes a worthwhile contribution to families, schools, and communities. Students must use Family and Consumer Sciences content and skills to address and take action on a community need.</p>
         </details>

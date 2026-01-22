@@ -6,7 +6,7 @@ layout: default
   <h1>Contact Us</h1>
 </div>
 
-<div class= "overall-contact section">
+<div class= "overall-contact-section">
   <h3>Have any questions? Contact us to learn more!</h3>
 </div>
 
