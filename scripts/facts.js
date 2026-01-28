@@ -1,7 +1,7 @@
 async function loadJSON() { 
    // alert (siteBaseUrl);
   try {
-    const response = await fetch("/scripts/facts.json");
+    const response = await fetch("lafayette-fccla/scripts/facts.json");
     const facts = await response.json();
     var num = Math.floor(Math.random() * facts.data.length);
     document.getElementById("fact-text").textContent = facts.data[num];
