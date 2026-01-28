@@ -10,7 +10,7 @@ description: "Learn about FCCLA at Lafayette Senior High School."
 <script>
   var siteBaseUrl = "{{ site.baseurl }}";
 </script>
-<script src ="{{site.baseurl}}/scripts/facts.js"> </script>
+<script src ="lafayette-fccla/scripts/facts.js"> </script>
 
 
 
