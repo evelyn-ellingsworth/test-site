@@ -21,15 +21,13 @@ description: "Learn about the Lafayette FCCLA's program of work."
 
 
 
-  <div class ="program-work-pdf">
-  <object data="https://drive.google.com/file/d/1Rsk3EZsnZ0Vzfp5LPTyobaQfoKOyuVj3/preview" type="application/pdf" width="100%" height="500px">
+  <div class ="pdf-container">
     <iframe src="https://drive.google.com/file/d/1Rsk3EZsnZ0Vzfp5LPTyobaQfoKOyuVj3/preview" width="640" height="480">
       <p>
         This browser does not support PDF viewing.
         <a href="https://drive.google.com/file/d/1Rsk3EZsnZ0Vzfp5LPTyobaQfoKOyuVj3/preview">Download the PDF</a>.
       </p>
     </iframe>
-  </object>
   </div>
 </div>
 
