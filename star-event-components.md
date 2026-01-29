@@ -46,14 +46,14 @@ description: "Required documents for the STAR Event FCCLA Chapter Website."
         <h2>Evidence of Online Summary Form Submission</h2>
     </div>
     <div class="component-pdf">
-        <object data="https://drive.google.com/file/d/1Csvvw3MHLYk3JOHjtP_iniDLPsiLp6mb/preview" type="application/pdf" width="100%" height="500px">
+     <!--  <object data="https://drive.google.com/file/d/1Csvvw3MHLYk3JOHjtP_iniDLPsiLp6mb/preview" type="application/pdf" width="100%" height="500px"> -->
             <iframe src="https://drive.google.com/file/d/1Csvvw3MHLYk3JOHjtP_iniDLPsiLp6mb/preview" width="640" height="480">
             <p>
             This browser does not support PDF viewing.
             <a href="https://drive.google.com/file/d/1Csvvw3MHLYk3JOHjtP_iniDLPsiLp6mb/preview">Download the PDF</a>.
             </p>
             </iframe>
-        </object>
+      <!--  </object> -->
     </div>
     </div>
 
