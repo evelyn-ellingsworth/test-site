@@ -217,7 +217,7 @@
     display: none;
     position: absolute;
     top: 100%;
-    left: 0;
+    right: 0;
     background: white;
     min-width: 180px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -410,6 +410,9 @@
   color:  #ef3e42;
   font-weight: bold;
 }
+
+
+
 
 .image-container-3 {
   max-width: 900px;
